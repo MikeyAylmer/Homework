@@ -1,0 +1,19 @@
+Answer #1. mkdir first
+Answer #2. cd first
+Answer #3.  touch person.txt
+Answer #4.  mv person.txt another.txt
+Answer #5.  cp another.txt copy.txt
+Answer #6.  rm copy.txt
+Answer #7.  cp -r first second 
+Answer #8.  rm -rf second
+Answer #9.  man command gives discription of command, use enter to scroll and Q to escape.
+Answer #10. -l shows more discriptive file and -a shows hidden file
+Answer #11. cntrl arrow key
+Answer #12. cntrl E
+Answer #13. cntrl a
+Answer #14. cntrl u
+Answer #15. terminal interacts with vscode
+Answer #16. 
+Answer #17.
+Answer #18. flag helps commands do different functions
+Answer #19. delete the folder/directory no matter whats inside
